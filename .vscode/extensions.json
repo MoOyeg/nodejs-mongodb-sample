@@ -3,5 +3,6 @@
     // for the documentation about the extensions.json format
     "recommendations": [
       "redhat.fabric8-analytics",
+      "redhat.vscode-openshift-connector"
     ]
 }
