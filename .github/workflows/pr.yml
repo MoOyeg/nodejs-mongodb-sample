@@ -2,8 +2,6 @@ name: Update Devspaces Link on PR Open
 on:
   pull_request:
     types: [opened, reopened]
-env:
-  devspaces_url: https://devspaces.apps.cluster1.sandbox1980.opentlc.com
 jobs:
   update-pr:
     runs-on: ubuntu-latest
