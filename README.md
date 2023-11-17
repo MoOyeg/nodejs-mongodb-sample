@@ -21,10 +21,10 @@ The application connects to the Mongo data base, so it should be configured with
 - Automated Github action will add a comment on PR to open workspace.
 
 Open-This-Repo-In-My-WorkSpace
-[![Contribute-in-my-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample.git)
+[![Contribute-in-my-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git)
 
 Create-In-Your-Own-WorkSpace
-[![Create-your-own-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample.git?new)
+[![Create-your-own-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git?new)
 
 Create-Your-Own-WorkSpace-Based-On-This-Branch
-[![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample.git/tree/main?new)
+[![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git/tree/main?new)
