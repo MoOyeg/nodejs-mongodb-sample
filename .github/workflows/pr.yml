@@ -21,4 +21,4 @@ jobs:
         with:
           message: |
             **Edit This Pull Request in IDE**
-            [![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](${{ env.devspaces_url }}/#${{ github.server_url }}/${{ github.repository }}/pull/${{ github.event.pull_request.number }}?new)
+            [![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](${{ devspaces_url }}/#${{ github.server_url }}/${{ github.repository }}/pull/${{ github.event.pull_request.number }}?new)
