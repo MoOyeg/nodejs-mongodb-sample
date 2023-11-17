@@ -14,7 +14,6 @@ The application connects to the Mongo data base, so it should be configured with
 - Open the Workspace tab (click the cube icon on the far right side) and look for commands (gear icon)
 - Click '1-run' to run the application. The same command is documented in the devfile.yaml in this repo.
 
-
 # Show DevSpaces Can also help streamline pr workflow
 - Replace the below links with your devspace url
 - Create a new branch
@@ -28,4 +27,4 @@ Create-In-Your-Own-WorkSpace
 [![Create-your-own-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git?new)
 
 Create-Your-Own-WorkSpace-Based-On-This-Branch
-[![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git/tree/main?new)
+[![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git/tree/bob-branch?new)
