@@ -9,6 +9,7 @@ The application connects to the Mongo data base, so it should be configured with
 - MongoDB password - <b>password</b>
 - The name of data base - <b>guestbook</b>
 
+
 #  Run the application
 - Launch a workspace from the devfile.yaml file in this repo, eg., from https://devspaces.apps.your-cluster.com/#https://github.com/crw-samples/nodejs-mongodb-sample/tree/devspaces-3-rhel-8
 - Open the Workspace tab (click the cube icon on the far right side) and look for commands (gear icon)
