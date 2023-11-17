@@ -20,7 +20,7 @@ The application connects to the Mongo data base, so it should be configured with
 - Make an edit on that branch
 - Automated Github action will add a comment on PR to open workspace.
 
-Open-This-Repo-In-My-WorkSpace
+Open-This-Repo-In-My-WorkSpaceOpen-This-Repo-In-My-WorkSpace
 [![Contribute-in-my-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git)
 
 Create-In-Your-Own-WorkSpace
