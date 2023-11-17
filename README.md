@@ -28,4 +28,4 @@ Create-In-Your-Own-WorkSpace
 [![Create-your-own-workspace](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git?new)
 
 Create-Your-Own-WorkSpace-Based-On-This-Branch
-[![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git/tree/main?new)
+[![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster1.sandbox1980.opentlc.com/#https://github.com/MoOyeg/nodejs-mongodb-sample-dev.git/tree/rt?new)
