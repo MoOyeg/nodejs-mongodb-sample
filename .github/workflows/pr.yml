@@ -1,0 +1,24 @@
+name: Update Devspaces Link on PR Open
+on:
+  pull_request:
+    types: [opened, reopened]
+env:
+  devspaces_url: https://devspaces.apps.cluster1.sandbox1980.opentlc.com
+jobs:
+  update-pr:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v3  
+      - name: Obtain Information
+        id: info
+        run: |
+          export devspaces_url=$(grep 'Edit this Branch' ./README.md | sed "s:\[\!\[Edit this Branch\]\(.*\)\]\(.*\)#.*\/tree\/.*:\2):g" | sed 's/(//g' | sed 's/)//g')
+          echo "devspaces_url=$devspaces_url" >> $GITHUB_ENV          
+          echo "done"
+      - uses: mshick/add-pr-comment@v2
+        id: comment-pr
+        with:
+          message: |
+            **Edit This Pull Request in IDE**
+            [![Edit this Branch](https://www.eclipse.org/che/contribute.svg)](${{ env.devspaces_url }}/#${{ github.server_url }}/${{ github.repository }}/pull/${{ github.event.pull_request.number }}?new)
