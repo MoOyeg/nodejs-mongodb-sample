@@ -14,6 +14,7 @@ The application connects to the Mongo data base, so it should be configured with
 - Open the Workspace tab (click the cube icon on the far right side) and look for commands (gear icon)
 - Click '1-run' to run the application. The same command is documented in the devfile.yaml in this repo.
 
+
 # Show DevSpaces Can also help streamline pr workflow
 - Replace the below links with your devspace url
 - Create a new branch
